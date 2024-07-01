@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+* Update rubocop-performance from 1.21.0 to [1.21.1](https://github.com/rubocop/rubocop-performance/releases/tag/v1.21.1)
+
+## Unreleased
+
 * Update minimum Ruby version to 3.0
 
 ## 1.37.0
