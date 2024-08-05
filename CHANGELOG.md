@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+* Update rubocop-performance from 1.21.0 to [1.21.1](https://github.com/rubocop/rubocop-performance/releases/tag/v1.21.1)
+* Update rubocop from 1.64.1 to [1.65.1](https://github.com/rubocop/rubocop/releases/tag/v1.65.1)
+
+## Unreleased
+
 ## 1.39.2
 
 * Ensure a URI scheme on file paths from the built-in LSP [#642](https://github.com/standardrb/standard/pull/642).
